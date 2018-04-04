@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IPL_app</string>
+
+    <string name="csk_name">Chennai Super Kings</string>
+    <string name="mi_name">Mumbai Indians</string>
+    <string name="dd_name">Delhi Daredevils</string>
+    <string name="kkr_name">Kolkata Knight Riders</string>
+    <string name="kings_name">Kings XI Punjab</string>
+    <string name="rcb_name">Royal Challengers Bangalore</string>
+    <string name="rr_name">Rajasthan Royals</string>
+    <string name="srh_name">Sunrisers Hyderabad</string>
+
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+
+</resources>
